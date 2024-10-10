@@ -1,4 +1,4 @@
-package tutorials;
+package oopj24csb47;
 import java.util.*;
 public class Palindrome {
 
@@ -25,3 +25,4 @@ public class Palindrome {
 	}
 
 }
+
